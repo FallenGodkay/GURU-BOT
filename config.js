@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
-global.owner = [['917605902011', 'GURU', true], ['6281255369012', 'Ash', true], ['']] //Number of owners
+global.owner = [['917605902011', 'GURU', true], ['27653224519', 'Kay⁹⁵', true], ['']] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917605902011', '32460248586']
-global.prems = ['917605902011', '32460248586', '919398758484']
-global.allowed = ['917605902011', '32460248586', '19152999993']
+global.mods = ['917605902011', '27653224519']
+global.prems = ['917605902011', '32460248586', '27653224519']
+global.allowed = ['917605902011', '32460248586', '27653224519']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -53,20 +53,20 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '「Ø₮Ⱡ」ØɄ₮Ⱡ₳₩Ƶ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
-global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
-global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT'
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.packname = '「Ø₮Ⱡ」ØɄ₮Ⱡ₳₩Ƶ-TOP 1 SA'
+global.author = 'Kay⁹⁵'
+global.menuvid = 'https://telegra.ph/file/4243a6ba2fc3257e9cc8e.mp4'
+global.igfg = '▢ Follow on Instagram\nhttps://whatsapp.com/channel/0029VaYsAMI9sBI1dl0Oh03q\n'
+global.dygp = 'https://whatsapp.com/channel/0029VaYsAMI9sBI1dl0Oh03q'
+global.fgsc = 'https://whatsapp.com/channel/0029VaYsAMI9sBI1dl0Oh03q'
+global.fgyt = 'https://whatsapp.com/channel/0029VaYsAMI9sBI1dl0Oh03q'
+global.fgpyp = 'https://whatsapp.com/channel/0029VaYsAMI9sBI1dl0Oh03q'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ 「Ø₮Ⱡ」_Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
